@@ -30,8 +30,6 @@ export const RESUME_DATA = {
   and Discrete Mathematics | Expanding expertise in Linear Algebra | Skilled in Java, Linux, and Git | Active 
   Member of Student Government, App Development Club, and UI/UX Club | Dedicated to driving innovation 
   through technology and fostering collaborative learning.`,
-  avatarUrl:
-    "https://media.licdn.com/dms/image/D4E03AQElpZBttAFMxw/profile-displayphoto-shrink_800_800/0/1706480915524?e=1712188800&v=beta&t=2HIl1IO0yz99I612NsmJbWZKVBn4j4zimiWy0kXBdc8",
   personalWebsiteUrl: "https://amodhakal.vercel.app",
   contact: {
     email: "bartosz.jarocki@hey.com",
