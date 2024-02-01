@@ -8,6 +8,6 @@ Computer Science Junior at NC State | Enthusiastic Learner of Data Structures & 
 <br>
 Bachelor's Degree in Computer Science
 ### Skills
-Git, Java, iOS Dev
+Git, Java
 
 <img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amodhakal">
