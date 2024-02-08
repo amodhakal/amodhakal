@@ -100,7 +100,8 @@ export const RESUME_DATA = {
   ],
   skills: [
     "Git",
-    "Java"
+    "Java",
+    "C"
   ],
   projects: [
     {
