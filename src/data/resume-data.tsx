@@ -101,7 +101,10 @@ export const RESUME_DATA = {
   skills: [
     "Git",
     "Java",
-    "C"
+    "C",
+    "Typescript",
+    "Express",
+    "SQL",
   ],
   projects: [
     {
