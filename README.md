@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a student currently pursuing a bachelor's degree in Computer Science, and this is my final semester. My main focus is with full stack web and graphics development with interests in various fields. Thank you for visiting my profile and I hope you find something here.</p>
+<p align="left">I am a student currently pursuing a bachelor's degree in Computer Science, and this is my final semester. My main focus is with full stack web and graphics development with interests in various fields. Thank you for visiting my profile and check out my resume <a href="https://github.com/amodhakal/amodhakal/blob/main/Resume.pdf">here</a>.</p>
 
 ###
 
