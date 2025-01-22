@@ -10,10 +10,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://readme-stats-nine-virid.vercel.app/api?username=amodhakal&rank_icon=github&hide=contribs,issues&theme=tokyonight&show_icons=true" alt="Github Stats" height="180" align="center" />
+  <img src="https://readme-stats-nine-virid.vercel.app/api?username=amodhakal&rank_icon=github&hide=contribs,issues&theme=tokyonight&show_icons=true" alt="Github Stats" height="170" align="center" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://readme-stats-nine-virid.vercel.app/api/top-langs/?username=amodhakal&theme=tokyonight&layout=compact&langs_count=8&card_width=320&hide_progress=true" alt="Languages" height="180" align="center" />
+  <img src="https://readme-stats-nine-virid.vercel.app/api/top-langs/?username=amodhakal&theme=tokyonight&layout=compact&langs_count=8&card_width=320&hide_progress=true" alt="Languages" height="170" align="center" />
 </a>
 
 ###
