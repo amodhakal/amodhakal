@@ -6,8 +6,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/amodhakal/amodhakal/output/snake.svg" alt="Snake animation" />
+<img src="https://readme-stats-nine-virid.vercel.app/api?username=amodhakal&rank_icon=github&hide=contribs,issues&theme=tokyonight&show_icons=true" alt="Github Stats" width="400" />
+<img src="https://readme-stats-nine-virid.vercel.app/api/top-langs/?username=amodhakal&langs_count=5&theme=tokyonight" alt="Languages" width="400"/>
 
 ###
