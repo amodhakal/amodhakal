@@ -6,14 +6,13 @@
 
 ###
 
-
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://readme-stats-nine-virid.vercel.app/api?username=amodhakal&rank_icon=github&hide=contribs&theme=tokyonight&show_icons=true" alt="Github Stats" height="176" align="center" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img src="https://readme-stats-nine-virid.vercel.app/api/top-langs/?username=amodhakal&theme=tokyonight&layout=compact&langs_count=8&card_width=320&hide_progress=true" alt="Languages" height="176" align="center" />
 </a>
+
+<img src="https://raw.githubusercontent.com/amodhakal/amodhakal/output/snake.svg" alt="Snake animation" height="181" />
 
 ###
