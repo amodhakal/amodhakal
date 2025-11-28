@@ -4,4 +4,4 @@ I have been coding for more than half a decade. I am mainly a full stack web dev
 
 --
 
-![Stats](https://github-readme-stats-gamma-bay-69.vercel.app/api/top-langs/?username=amodhakal&langs_count=10&layout=compact)
+![Stats](https://github-readme-stats-gamma-bay-69.vercel.app/api/top-langs/?username=amodhakal&langs_count=10&layout=compact&theme=tokyonight)
