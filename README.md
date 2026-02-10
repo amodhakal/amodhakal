@@ -4,6 +4,6 @@ I build production software across the stack from real-time web applications to 
 
 Full-stack web development (JavaScript/TypeScript ecosystems), systems programming (C++), computer graphics. Comfortable across the entire stack like database design, API architecture, real-time client state, GPU optimization.
 
-**Contact:** [LinkedIn](https://linkedin.com/in/amodhakal) • [GitHub](https://github.com/amodhakal)
+**Contact:** [Gmail](mailto:amodhakal@gmail.com) • [GitHub](https://github.com/amodhakal)
 
 <p align="center"><em>Currently seeking junior/mid-level software engineering roles</em></p>
