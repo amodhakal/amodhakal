@@ -31,7 +31,7 @@ Currently open to new grad software engineering roles.
 
 ## 🛠 Open Source
 
-- **[Turso/libsql](https://github.com/tursodatabase/libsql)** — Fixed BETWEEN expression rewrite causing crashes on INSERT; isolated macOS pipeline failure in Aegis dependency
+- **[Turso](https://github.com/tursodatabase/libsql)** — Fixed BETWEEN expression rewrite causing crashes on INSERT; isolated macOS pipeline failure in Aegis dependency
 - **[MariaDB](https://github.com/MariaDB/server)** — Fixed assertion failure in mysql_insert merged into 11.8.7 & 12.3.2; fixed REPAIR TABLE CLI regression
 
 ---
