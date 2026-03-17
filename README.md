@@ -9,9 +9,9 @@ Currently open to new grad software engineering roles.
 ## 🔧 What I work with
 
 **Systems:** Rust, C++, SQL  
-**Backend:** Java, Spring Boot, Python, Node.js, Express, FastAPI  
+**Backend:** C#, .NET, Java, Spring Boot, Python, Node.js, Express, FastAPI  
 **Frontend:** React, Next.js, TypeScript, Vue  
-**Infra:** AWS, Docker, PostgreSQL, MySQL, MongoDB  
+**Infra:** Azure, AWS, Docker, PostgreSQL, MySQL, MongoDB  
 
 ---
 
@@ -24,6 +24,9 @@ Currently open to new grad software engineering roles.
 | [Linterra](https://github.com/amodhakal/linterra/tree/old-architecture) | Voxel engine in C++/OpenGL; 3 FPS → 980 FPS, 2.71GB → 110MB RAM |
 | [Fairfare](https://github.com/amodhakal/fairfare/tree/hackathon) | Real-time ride cost comparison across Uber, Lyft and more |
 | [uBlockAI](https://github.com/amodhakal/uBlockAI) | Chrome extension to filter social media misinformation in real-time |
+| [PolicyManager](https://github.com/amodhakal/PolicyManager) | API to manage insurance policy, hosted on Azure |
+
+
 
 ---
 
