@@ -1,11 +1,5 @@
 # Hi, I'm Amodh 👋
 
-CS grad who likes building things.
-
-Currently open to new grad software engineering roles.
-
----
-
 ## 🔧 What I work with
 
 **Systems:** Rust, C++, SQL  
