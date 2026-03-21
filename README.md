@@ -26,4 +26,4 @@
 
 ## 📬 Let's connect
 
-[LinkedIn](linkedin.com/in/amodhakal) · [Portfolio](amodhakal.tech) · amodhakal@email.com
+[LinkedIn](linkedin.com/in/amodhakal) · [Portfolio](https://amodhakal.tech) · amodhakal@email.com
