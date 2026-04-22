@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Amodh Dhakal 👋</h1>
+<h1>Hi there, I'm Amodh Dhakal 👋</h1>
 
-<p align="center">
+<p>
   <strong>Software Engineer | Full-Stack Development | Scalable Systems | AI Integration</strong>
 </p>
 
