@@ -32,13 +32,13 @@
 
 ### 🚀 Featured Projects
 
-* 🏥 **[Game2Learn](#)**: Co-developing an event-driven patient simulation engine in Vuex for medical diagnosis training, supporting 50+ concurrent scenarios and dynamic condition degradation for 500+ beta users.
-* 🛡️ **[PolicyManager](#)**: Built policyholder management REST APIs in C#/ASP.NET on Azure. Sustained **13,500+ requests/sec** with sub-200ms p95 latency using MSSQL indexing and caching.
-* ☕ **[BrewLogic](#)**: Scalable Spring Boot/React order processing system. Handles **1,000+ req/sec** on AWS. Features an MCP server exposing order tools for LLM workflows and automated CI/CD with 95%+ test coverage.
-* 🔗 **[QuadroPE](#)**: Distributed URL shortener (Python/Flask, PostgreSQL, Redis) scaled across 6 AWS instances. Handled **12,400+ req/sec**, monitored via automated Grafana/Prometheus alerts.
-* 🎙️ **[Medilin](#)** *(🥉 3rd Place, SolHacks)*: Multi-lingual medical appointment app with a real-time, two-way AI voice agent via Websockets and a fault-tolerant translation pipeline.
-* 🎮 **[Linterra](#)**: Multi-threaded voxel game engine in C++/OpenGL. Optimized rendering via greedy meshing and frustum culling for **980+ FPS**, reducing memory footprint by **96% (1.6GB to 110MB)**.
-* 🧠 **AI Tools ([uBlockAI](#) & [FastTute](#))**: Shipped an OCR/LLM-powered misinformation filtering Chrome extension and an AI-driven real-time video learning platform featuring 98% reliable fault-tolerant data pipelines.
+* 🏥 **Game2Learn**: Co-developing an event-driven patient simulation engine in Vuex for medical diagnosis training, supporting 50+ concurrent scenarios and dynamic condition degradation for 500+ beta users.
+* 🛡️ **[PolicyManager](https://github.com/amodhakal/PolicyManager)**: Built policyholder management REST APIs in C#/ASP.NET on Azure. Sustained **13,500+ requests/sec** with sub-200ms p95 latency using MSSQL indexing and caching.
+* ☕ **BrewLogic**: Scalable Spring Boot/React order processing system. Handles **1,000+ req/sec** on AWS. Features an MCP server exposing order tools for LLM workflows and automated CI/CD with 95%+ test coverage.
+* 🔗 **[QuadroPE](https://github.com/amodhakal/QuadroPE)**: Distributed URL shortener (Python/Flask, PostgreSQL, Redis) scaled across 6 AWS instances. Handled **12,400+ req/sec**, monitored via automated Grafana/Prometheus alerts.
+* 🎙️ **[Medilin](https://github.com/amodhakal/Medilin)** *(🥉 3rd Place, SolHacks)*: Multi-lingual medical appointment app with a real-time, two-way AI voice agent via Websockets and a fault-tolerant translation pipeline.
+* 🎮 **[Linterra](https://github.com/amodhakal/Linterra)**: Multi-threaded voxel game engine in C++/OpenGL. Optimized rendering via greedy meshing and frustum culling for **980+ FPS**, reducing memory footprint by **96% (1.6GB to 110MB)**.
+* 🧠 **AI Tools ([uBlockAI](https://github.com/amodhakal/uBlockAI) & [FastTute](https://github.com/amodhakal/FastTute.dev))**: Shipped an OCR/LLM-powered misinformation filtering Chrome extension and an AI-driven real-time video learning platform featuring 98% reliable fault-tolerant data pipelines.
 
 ---
 
