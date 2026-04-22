@@ -1,17 +1,13 @@
-<h1 align="center">Hi there, I'm Amod Hakal 👋</h1>
+<h1 align="center">Hi there, I'm Amodh Dhakal 👋</h1>
 
 <p align="center">
   <strong>Software Engineer | Full-Stack Development | Scalable Systems | AI Integration</strong>
 </p>
 
-<p align="center">
+<p>
   I'm a Software Engineer building highly scalable backend systems, optimizing performance, and integrating LLMs into robust, fault-tolerant applications. From sustaining 13,500+ requests/sec on Azure to writing multi-threaded C++ game engines, I love tackling complex technical challenges.
 </p>
 
-<div align="center">
-  <a href="mailto:YOUR_EMAIL@DOMAIN.COM"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</div>
 
 ---
 
