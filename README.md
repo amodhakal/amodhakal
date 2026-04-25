@@ -44,8 +44,7 @@
 
 ### 💼 Work Experience
 
-- **Software Engineer** @ Game2Learn *(Jan 2025 - Apr 2025)*
-- **Software Engineer** @ App Development Club *(Jan 2024 - Apr 2024)*
+- **iOS Engineer** @ App Development Club *(Jan 2024 - Apr 2024)*
 
 ---
 
