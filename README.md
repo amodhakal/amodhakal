@@ -42,12 +42,6 @@
 
 ---
 
-### 💼 Work Experience
-
-- **iOS Engineer** @ App Development Club *(Jan 2024 - Apr 2024)*
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
