@@ -39,16 +39,3 @@
 * 🎙️ **[Medilin](https://github.com/amodhakal/Medilin)** *(🥉 3rd Place, SolHacks)*: Multi-lingual medical appointment app with a real-time, two-way AI voice agent via Websockets and a fault-tolerant translation pipeline.
 * 🎮 **[Linterra](https://github.com/amodhakal/Linterra)**: Multi-threaded voxel game engine in C++/OpenGL. Optimized rendering via greedy meshing and frustum culling for **980+ FPS**, reducing memory footprint by **96% (1.6GB to 110MB)**.
 * 🧠 **AI Tools ([uBlockAI](https://github.com/amodhakal/uBlockAI) & [FastTute](https://github.com/amodhakal/FastTute.dev))**: Shipped an OCR/LLM-powered misinformation filtering Chrome extension and an AI-driven real-time video learning platform featuring 98% reliable fault-tolerant data pipelines.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=amodhakal&show_icons=true&theme=radical&hide_border=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=amodhakal&theme=radical&hide_border=true" />
-</div>
-
-<!--
-**amodhakal/amodhakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
