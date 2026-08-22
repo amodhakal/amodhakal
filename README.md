@@ -9,3 +9,4 @@ Building systems, graphics, and AI tools
 - [OpenTodoist](https://github.com/amodhakal/opentodoist) - Bulk-extracts prioritized tasks from freeform text and syncs to Todoist
 - [QuadroURL](https://github.com/amodhakal/quadroURL) - Backend API focused on scalable architecture
 - [uBlockAI](https://github.com/amodhakal/uBlockAI) - Chrome extension that OCRs and fact-checks Instagram posts with a multi-agent LLM pipeline, flagging misinformation in real time
+- [Pathtracer](https://github.com/amodhakal/pathtracer) - A path tracing rendering algorithm implementation in WebGL and Typescript
