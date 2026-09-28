@@ -10,3 +10,7 @@ Building systems, graphics, and AI tools
 - [QuadroURL](https://github.com/amodhakal/quadroURL) - Backend API focused on scalable architecture
 - [uBlockAI](https://github.com/amodhakal/uBlockAI) - Chrome extension that OCRs and fact-checks Instagram posts with a multi-agent LLM pipeline, flagging misinformation in real time
 - [Pathtracer](https://github.com/amodhakal/pathtracer) - A path tracing rendering algorithm implementation in WebGL and Typescript
+
+## GitHub Stats
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=amodhakal&amp;layout=compact&amp;langs_count=12&amp;hide_values=true&amp;theme=dark_github"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=amodhakal&amp;layout=compact&amp;langs_count=12&amp;hide_values=true&amp;theme=dark_github"></a>
+<a href="https://github-stats-extended.vercel.app/api?username=amodhakal&amp;hide_rank=true&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dark_github"><img src="https://github-stats-extended.vercel.app/api?username=amodhakal&amp;hide_rank=true&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dark_github"></a>
