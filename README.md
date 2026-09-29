@@ -47,6 +47,7 @@ GPU compute-shader terrain generation, multithreaded chunk meshing, and a cross-
 ## Education
 
 **North Carolina State University**: B.S. Computer Science · Graduated 2025 · GPA 3.96 / 4.00
+
 Coursework: Data Structures & Algorithms, Operating Systems, Computer Graphics, Network Security, Software Engineering
 
 ## Skills
