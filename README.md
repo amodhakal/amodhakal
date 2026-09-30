@@ -60,4 +60,4 @@ Coursework: Data Structures & Algorithms, Operating Systems, Computer Graphics, 
 
 ---
 
-**Open to software engineering roles.** Email is the fastest way to reach me: [amodhakal@gmail.com](mailto:amodhakal@gmail.com)
+**Open to roles.** Email is the fastest way to reach me: [amodhakal@gmail.com](mailto:amodhakal@gmail.com)
