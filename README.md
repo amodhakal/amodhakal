@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=140&text=Amodh%20Dhakal&fontSize=56&fontColor=ffffff&animation=fadeIn" alt="Amodh Dhakal" width="100%">
 </p>
 
-**Software engineer focused on backend systems, distributed systems, and performance.**
+**Software engineer focused on backend systems, distributed systems, and performance, and reliability**
 
 Raleigh, NC · Authorized to work in the USA
 
