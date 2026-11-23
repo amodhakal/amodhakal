@@ -14,7 +14,7 @@ amodhakal@gmail.com · [LinkedIn](https://linkedin.com/in/amodhakal) · [GitHub]
 
 **MariaDB Server** | C++, CMake, SQL
 - Contributed merged fixes to MariaDB's database engine.
-- Fixed query execution and storage engine issues, including failed INSERT/REPLACE cleanup and REPAIR TABLE progress reporting.
+- Fixed issues, including failed INSERT/REPLACE cleanup and REPAIR TABLE progress reporting.
 
 ## Projects
 
