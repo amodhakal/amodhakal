@@ -1,91 +1,63 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=140&text=Amodh%20Dhakal&fontSize=56&fontColor=ffffff&animation=fadeIn" alt="Amodh Dhakal" width="100%">
-</p>
+# Amodh Dhakal
 
-**Backend software engineer focused on distributed systems, performance, and reliability.**
+amodhakal@gmail.com · [LinkedIn](https://linkedin.com/in/amodhakal) · [GitHub](https://github.com/amodhakal) · [Portfolio](https://amodhakal.tech)
 
-Raleigh, NC · Authorized to work in the USA
-
-[![Email](https://img.shields.io/badge/Email-amodhakal@gmail.com-2563eb?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:amodhakal@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amodhakal-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/amodhakal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-amodhakal.tech-7c3aed?style=for-the-badge)](https://amodhakal.tech)
-
-## Open Source
-
-Contributions to MariaDB Server, one of the most widely deployed relational databases:
-
-- [**MDEV-38349**](https://github.com/MariaDB/server/pull/4715): fixed an assertion failure on `INSERT`/`REPLACE` error paths that left inconsistent state after a failed query. Merged 2026-03-03.
-- [**MDEV-38922**](https://github.com/MariaDB/server/pull/4710): fixed incorrect progress reporting for `REPAIR TABLE` by tracing it through the storage engine's status layer. Merged 2026-03-17.
 
 ## Experience
 
-**Software Engineer, Game2Learn Lab** · Raleigh, NC · Jan 2025 – Apr 2025
+**Software Engineer — Game2Learn Lab** | Jan. 2025 – Apr. 2025
+- Built Vue.js interfaces for a healthcare training application.
+- Reduced Vite build time by 78% to 28 seconds.
+- Achieved 85%+ test coverage using Vitest and GitHub Actions.
 
-- Built the Vue.js UI layer for a 3D healthcare training simulation, working directly with medical faculty
-- Cut Vite build time 78%, down to 28 seconds
-- Reached 85%+ test coverage with Vitest and GitHub Actions
+## Open Source
+
+**MariaDB Server** | C++, CMake, SQL
+- Contributed merged fixes to MariaDB's database engine.
+- Fixed query execution and storage engine issues, including failed INSERT/REPLACE cleanup and REPAIR TABLE progress reporting.
 
 ## Projects
 
-**[PolicyManager](https://github.com/amodhakal/PolicyManager)**: insurance policy administration API · *C#, ASP.NET Core, EF Core, RabbitMQ, Azure*
+**[HNSW.cpp](https://github.com/amodhakal/hnsw.cpp)** | C++, SIMD
+- Built an approximate nearest-neighbor search engine from scratch.
+- Achieved 1.4x faster queries than FAISS and 3.1x faster than hnswlib at equal accuracy, using 32% less memory.
+- Improved throughput 2.4x with ARM NEON SIMD.
 
-- Handled ~13,600 req/s across 6 instances in load tests
-- Optimistic concurrency, a transactional outbox, and PII encrypted at rest
-- 90%+ test coverage, including a real SQL Server suite via Testcontainers
+**[PolicyManager](https://github.com/amodhakal/PolicyManager)** | C#, ASP.NET Core, SQL Server, Angular, RabbitMQ, Azure
+- Built an insurance administration platform handling 13,600+ requests/sec.
+- Implemented encrypted data storage, asynchronous processing, and distributed tracing.
+- Deployed with Kubernetes and Azure, achieving zero failed requests during rolling deployments.
 
-**[QuadroURL](https://github.com/amodhakal/quadrourl)**: distributed URL shortener · *Python, Flask, Kafka, Redis, React, Terraform*
+**[QuadroURL](https://github.com/amodhakal/quadrourl)** | Python, Flask, Kafka, Redis, AWS
+- Built a distributed URL shortener handling 12,400+ requests/sec at 200ms p95 latency.
+- Implemented caching, cache-stampede protection, and asynchronous event processing.
+- Added Prometheus/Grafana monitoring and Terraform infrastructure.
 
-- 12,400+ req/s at 200 ms p95 in load tests
-- Two-tier caching with cache-stampede protection
-- Prometheus and Grafana monitoring, plus one-command Terraform deploy
+**[Linterra](https://github.com/amodhakal/linterra)** | C++, OpenGL, GLSL
+- Built a procedurally generated 3D voxel game.
+- Achieved 60+ FPS across 64 chunks with 7x vertex data compression.
+- Implemented multithreaded chunk generation and meshing.
 
-**[vecsearch](https://github.com/amodhakal/vecsearch)**: approximate nearest neighbor search from scratch · *Python*
+**[Medilin](https://github.com/amodhakal/Medilin)** | TypeScript, Next.js, WebSockets
+- Built multilingual AI-powered medical intake with real-time voice agents.
+- Implemented encrypted patient records and tamper-evident audit logs.
+- 3rd place, SolHacks 2026.
 
-- HNSW and random projection forest indexes with zero runtime dependencies
-- Cut graph construction distance calculations 2.7x with no added query latency
-- Benchmarked recall, QPS, and distance evaluations on GloVe 100d embeddings
+**BrewLogic** | Java, Spring Boot, React, MySQL
+- Built a full-stack cafe ordering and inventory platform.
+- Implemented JWT authentication and role-based access control.
+- Achieved 90%+ JUnit test coverage.
 
-**[uBlockAI](https://github.com/amodhakal/uBlockAI)**: Chrome extension that flags AI-generated misinformation in social feeds · *TypeScript, Python, Flask, LangGraph*
+## Technical Skills
 
-- LangGraph agent that searches the web and rates source credibility
-- Deterministic scoring, so results are reproducible
-- Hashed API keys, rate limiting, and SSRF protection
+**Languages:** C#, Python, Java, C++, TypeScript, JavaScript, SQL
 
-**[Medilin](https://github.com/amodhakal/Medilin)**: multilingual voice medical intake, **3rd place at SolHacks 2026** · *TypeScript, Next.js, ElevenLabs, WebSockets*
+**Backend:** .NET, ASP.NET Core, Spring Boot, Flask, Entity Framework, Hibernate
 
-- Patients book appointments by voice or form in English, Spanish, or Portuguese
-- Real-time voice agents over WebSockets with automatic reconnect
-- AES-256-GCM envelope encryption and a tamper-evident audit log
+**Frontend:** Angular, React, Vue, Next.js
 
-### More Projects
+**Databases & Messaging:** PostgreSQL, SQL Server, MySQL, Redis, Kafka, RabbitMQ
 
-| Project | What it does |
-|---|---|
-| [Linterra](https://github.com/amodhakal/linterra) | Voxel game engine in C++ and OpenGL with GPU terrain generation |
-| [Pathtracer](https://github.com/amodhakal/pathtracer) | GPU path tracing in WebGL2 |
-| [FastTute.dev](https://github.com/amodhakal/fasttute.dev) | AI lessons from YouTube tutorials |
-| [OpenTodoist](https://github.com/amodhakal/opentodoist) | Turns freeform text into Todoist tasks |
+**Cloud & Infrastructure:** AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions
 
-## Skills
-
-**Languages:** TypeScript · Python · C# · Java · C++ · C · SQL
-
-**Frameworks:** ASP.NET Core · Flask · Spring Boot · React · Next.js · Angular · Vue
-
-**Data & Messaging:** PostgreSQL · SQL Server · MySQL · Redis · Kafka · RabbitMQ · pgvector
-
-**Cloud & Observability:** Azure · AWS · Docker · Terraform · GitHub Actions · Prometheus · Grafana · OpenTelemetry
-
-**Testing:** xUnit · Vitest · Pytest · JUnit · Playwright · Testcontainers
-
-**AI:** LangGraph · OpenAI / Gemini APIs · ElevenLabs · AI-assisted development (Claude Code)
-
-## Education
-
-**North Carolina State University**: B.S. Computer Science · Graduated 2025 · GPA 3.96 / 4.00
-
-Coursework: Data Structures & Algorithms, Operating Systems, Computer Graphics, Network Security, Software Engineering
-
----
-
-**Open to backend and full-stack software engineer roles.** Email is the fastest way to reach me: [amodhakal@gmail.com](mailto:amodhakal@gmail.com)
+**Testing & Observability:** xUnit, Pytest, Vitest, JUnit, Playwright, Selenium, Prometheus, Grafana, OpenTelemetry
