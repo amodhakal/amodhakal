@@ -20,7 +20,7 @@ amodhakal@gmail.com · [LinkedIn](https://linkedin.com/in/amodhakal) · [GitHub]
 
 **[HNSW.cpp](https://github.com/amodhakal/hnsw.cpp)** | C++, SIMD
 - Built an approximate nearest-neighbor search engine from scratch.
-- Achieved 1.4x faster queries than FAISS and 3.1x faster than hnswlib at equal accuracy, using 32% less memory.
+- Achieved 1.4x faster queries than FAISS and 3.1x faster than hnswlib at equal accuracy, 32% less memory.
 - Improved throughput 2.4x with ARM NEON SIMD.
 
 **[PolicyManager](https://github.com/amodhakal/PolicyManager)** | C#, ASP.NET Core, SQL Server, Angular, RabbitMQ, Azure
