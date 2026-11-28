@@ -1,6 +1,6 @@
 # Amodh Dhakal
 
-amodhakal@gmail.com · [LinkedIn](https://linkedin.com/in/amodhakal) · [GitHub](https://github.com/amodhakal) · [Portfolio](https://amodhakal.tech)
+amodhakal@gmail.com · [LinkedIn](https://linkedin.com/in/amodhakal) · [Portfolio](https://amodhakal.tech)
 
 
 ## Experience
